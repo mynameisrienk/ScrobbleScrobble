@@ -4,6 +4,7 @@
  * @Author Rory Standley <rorystandley@gmail.com>
  * @Version 1.3
  * @Package Database
+ * @https://github.com/rorystandley/MySQL-CRUD-PHP-OOP
  */
 class Database {
 
