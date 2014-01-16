@@ -21,7 +21,6 @@ endif;
  * Get a free API account @http://www.last.fm/api/account/create
  */
 
-$USER_NAME  = 'MyNameIsRienk';
 $USER_NAME  = '[USER_NAME]';
 $API_KEY    = '[API_KEY]';
 $API_SECRET = '[API_SECRET]';
