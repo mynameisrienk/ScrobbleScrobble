@@ -22,6 +22,7 @@ endif;
  */
 
 $USER_NAME  = 'MyNameIsRienk';
+$USER_NAME  = '[USER_NAME]';
 $API_KEY    = '[API_KEY]';
 $API_SECRET = '[API_SECRET]';
 
